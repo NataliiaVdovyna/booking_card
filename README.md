@@ -12,7 +12,7 @@
 
 ## Setting Up the Project
 
-1. Open the directory where you saved the files `index.html`, `style.css` and `script.js`.
+1. Open the directory where you saved the files `index.html` and `style.css`.
 
 2. Ensure all files are in the same directory.
 
