@@ -1,14 +1,6 @@
-## Downloading Files
+## Clone this project to your computer:
 
-1. **CSS File**:
-    - Right-click on the file `style.css`.
-    - Select the "Save As..." option.
-    - Save the file to your desired directory on your computer.
-
-2. **HTML File**:
-    - Right-click on the file `index.html`.
-    - Select the "Save As..." option.
-    - Save the file to your desired directory on your computer.
+$ git clone https://github.com/NataliiaVdovyna/pygame-project.git
 
 ## Setting Up the Project
 
