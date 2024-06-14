@@ -1,6 +1,7 @@
 ## Clone this project to your computer:
-
+```markdown
 $ git clone https://github.com/NataliiaVdovyna/pygame-project.git
+```
 
 ## Setting Up the Project
 
